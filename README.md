@@ -27,9 +27,9 @@
 
 **Work Experience :**
 
-MERN Stack Developer at CETPA Info. Pvt. Ltd.
+🔹MERN Stack Developer at CETPA Info. Pvt. Ltd.
 
-Intern at Telus International, Noida
+🔹Intern at Telus International, Noida
 
 **Education :**
 
